@@ -1,0 +1,168 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Securing React Apps with Auth02222",
+      "slug": "react-auth0-authentication-security",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 2,
+      "title": "React: The Big Picture",
+      "slug": "react-big-picture",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 3,
+      "title": "Creating Reusable React Components",
+      "slug": "react-creating-reusable-components",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 4,
+      "title": "Building a JavaScript Development Environment",
+      "slug": "javascript-development-environment",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 5,
+      "title": "Building Applications with React and Redux",
+      "slug": "react-redux-react-router-es6",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 6,
+      "title": "Building Applications in React and Flux",
+      "slug": "react-flux-building-applications",
+      "authorId": 1,
+      "category": "JavaScript"
+    },
+    {
+      "id": 7,
+      "title": "Clean Code: Writing Code for Humans",
+      "slug": "writing-clean-code-humans",
+      "authorId": 1,
+      "category": "Software Practices"
+    },
+    {
+      "id": 8,
+      "title": "Architecting Applications for the Real World",
+      "slug": "architecting-applications-dotnet",
+      "authorId": 1,
+      "category": "Software Architecture"
+    },
+    {
+      "id": 9,
+      "title": "Becoming an Outlier: Reprogramming the Developer Mind",
+      "slug": "career-reboot-for-developer-mind",
+      "authorId": 1,
+      "category": "Career"
+    },
+    {
+      "id": 10,
+      "title": "Web Component Fundamentals",
+      "slug": "web-components-shadow-dom",
+      "authorId": 1,
+      "category": "HTML5"
+    },
+    {
+      "id": 11,
+      "slug": "w",
+      "title": "w",
+      "authorId": 1,
+      "category": "a",
+      "createdAt": 1595595222817
+    },
+    {
+      "id": 12,
+      "slug": "a",
+      "title": "a",
+      "authorId": 1,
+      "category": "d",
+      "createdAt": 1595596672164
+    },
+    {
+      "id": 13,
+      "slug": "asd",
+      "title": "asd",
+      "authorId": 1,
+      "category": "ddd",
+      "createdAt": 1595596826722
+    },
+    {
+      "id": 14,
+      "slug": "sad",
+      "title": "sad",
+      "authorId": 1,
+      "category": "asd",
+      "createdAt": 1595607993799
+    },
+    {
+      "id": 15,
+      "slug": "sad",
+      "title": "sad",
+      "authorId": 1,
+      "category": "asd",
+      "createdAt": 1595607995681
+    },
+    {
+      "id": 16,
+      "slug": "asd",
+      "title": "asd",
+      "authorId": 1,
+      "category": "qwe",
+      "createdAt": 1595608018536
+    },
+    {
+      "id": 17,
+      "slug": "asdasd",
+      "title": "asdasd",
+      "authorId": 1,
+      "category": "sad",
+      "createdAt": 1595608030793
+    },
+    {
+      "id": 18,
+      "slug": "34",
+      "title": "34",
+      "authorId": 2,
+      "category": "11",
+      "createdAt": 1595608038200
+    },
+    {
+      "id": 19,
+      "slug": "asd",
+      "title": "asd",
+      "authorId": 1,
+      "category": "asd",
+      "createdAt": 1595608202926
+    },
+    {
+      "id": 20,
+      "slug": "a",
+      "title": "a",
+      "authorId": 1,
+      "category": "b",
+      "createdAt": 1595609048216
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Cory House"
+    },
+    {
+      "id": 2,
+      "name": "Scott Allen"
+    },
+    {
+      "id": 3,
+      "name": "Dan Wahlin"
+    }
+  ]
+}
